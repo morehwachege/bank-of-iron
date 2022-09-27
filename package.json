@@ -1,6 +1,7 @@
 {
   "name": "react-hooks-bank-of-flatiron-code-challenge",
   "version": "0.1.0",
+  "homepage": "https://morehwachege.github.io/bank-of-iron",
   "private": true,
   "dependencies": {
     "react": "^17.0.1",
